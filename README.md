@@ -1,1 +1,1 @@
-# compertive-study-of-nlp-model-LDA-BERT
+# Comerative Study of NLP MODELS (LDA and BERT)
